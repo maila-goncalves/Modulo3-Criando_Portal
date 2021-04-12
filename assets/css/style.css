@@ -56,3 +56,29 @@ body{
 .toporight input{
 	float:right;
 }
+.toporight img{
+	margin-right: 4px;
+}
+.topo2{
+	height: 95px;
+	color:#000;
+}
+.topo2int{
+	width: 100%;
+	max-width: 1040px;
+	height: 95px;
+	margin:auto;
+}
+.logo{
+	width: 230px;
+	height: 90px;
+	float:left;
+	margin-top:5px;
+}
+.topo2 .banner{
+	width: 650px;
+	height: 80px;
+	float:right;
+	margin-top:7px;
+	background-color: red;
+}
