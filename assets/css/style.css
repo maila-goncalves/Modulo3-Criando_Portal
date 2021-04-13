@@ -123,6 +123,6 @@ body{
 	line-height: 30px;
 	padding-left: 10px;
 }
-.submenuitem:hover{
-	background-color:#0000FF;
+.submenuitem:hover {
+	background-color:#FF5555;
 }
