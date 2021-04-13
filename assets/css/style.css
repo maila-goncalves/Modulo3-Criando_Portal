@@ -80,5 +80,31 @@ body{
 	height: 80px;
 	float:right;
 	margin-top:7px;
-	background-color: red;
+	background-color: #FF0000;;
+}
+.menu{
+	height: 40px;
+	background-color: #FF0000;
+}
+.menuint{
+	width: 100%;
+	max-width: 1040px;
+	height: 40px;
+	margin:auto;
+}
+.menu ul{
+	margin:0;
+	padding: 0;
+	list-style:none;
+}
+.menu li{
+	float:left;
+	height: 40px;
+	line-height: 40px;
+	padding-left: 8px;
+	padding-right: 8px;
+}
+.menu a{
+	color:#FFF;
+	text-decoration: none;
 }
