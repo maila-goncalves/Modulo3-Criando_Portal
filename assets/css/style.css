@@ -208,6 +208,7 @@ body{
 	height: 335px;
 	background-color: #CCC;
 	overflow: hidden;
+	margin-bottom: 20px;
 }
 .slideshowarea{
 	width: 100000px;
@@ -254,3 +255,29 @@ body{
 	background-color: #CCC;
 	border-radius: 10px;
 }
+.noticiaarea1{
+	width: 430px;
+	height: 420px;
+	float:left;
+}
+.noticiaarea2{
+	width: 320px;
+	height: 420px;
+	float:left;
+}
+.noticiaitem{
+	text-align: left;
+}
+.noticiaimg{
+	width: 80px;
+	height: 80px;
+	border:1px solid #CCC;
+	padding: 3px;
+	float:left;
+}
+.noticiatitulo{
+	float:left;
+	margin-left: 6px;
+	font-size: 16px;
+}
+
